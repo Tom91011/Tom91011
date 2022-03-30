@@ -1,7 +1,7 @@
 Hi there, I'm Tom Nightingale.
 ===========================
 I'm an aspiring web developer and I'm glad you've made it to my Github page🎉🎉🎉. I'm a completely self taught web developer and as I'm sure you'll come to realise after browsing through my repositories is that I've evolved enormously during my journey to date.
-My projects have becoming increasingly more challenging, from basic HTML and CSS projects to more recent full stack projects, I can proudly say that I can:
+My projects have becoming increasingly more challenging, from basic HTML and CSS projects to more recent full stack projects. I can proudly say that I can:
 - Program a browser using Javascript
 - Program a server using Node
 - Program a database using MongoDB
@@ -9,7 +9,7 @@ My projects have becoming increasingly more challenging, from basic HTML and CSS
 
 Of course I've not stopped there and I'm by no means the finished article (though does anyone actually achieve the coveted 'finished article' status in the everchanging world of web development???). I relish opportunities to learn new languages, libraries & frameworks and I'll continue to do so whilst also constantly finetuning my techniques to adhere to the industry accepted methods and best practises of programming. 
  
-I'd love for you to have a browse through a few of my projects to show you what I'm capable of. These wont represent what soft skills I've got though, but don't worry about that, I've got them in abundance from my history working in finance & accountancy for some pretty gigantic global companies. 
+I'd love for you to have a browse through a few of my projects to show you what I'm capable of. These won't represent what soft skills I've got though, but don't worry about that, I've got them in abundance from my history working in finance & accountancy for some pretty gigantic global companies. 
  
 I've got a huge amount to offer a company that can see the benefit of someone taking a complete career change and taking the plunge to reinvent themselves as a web developer.
 Please be in touch soon 👋
@@ -42,3 +42,6 @@ Skills
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+
+
+
