@@ -14,7 +14,9 @@ I've got a huge amount to offer a company that can see the benefit of someone ta
 Please be in touch soon 👋
 
 Tom 
-===
+
+Skills
+======
 
 
 ### Frontend
