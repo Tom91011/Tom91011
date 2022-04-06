@@ -12,7 +12,8 @@ Of course I've not stopped there and I'm by no means the finished article (thoug
 I'd love for you to have a browse through a few of my projects to show you what I'm capable of. These won't represent what soft skills I've got though, but don't worry about that, I've got them in abundance from my history working in finance & accountancy for some pretty gigantic global companies. 
  
 I've got a huge amount to offer a company that can see the benefit of someone taking a complete career change and taking the plunge to reinvent themselves as a web developer.
-Please be in touch soon 👋
+
+Please take a look at my [CV] and be in touch soon 👋
 
 Tom
 --- 
@@ -43,5 +44,4 @@ Skills
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-
-
+[CV]: https://pdfhost.io/v/hRcCpSJWo_Tom_Nightingale_CV
