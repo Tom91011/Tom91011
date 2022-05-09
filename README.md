@@ -44,4 +44,4 @@ Skills
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-[CV]: https://pdfhost.io/v/hRcCpSJWo_Tom_Nightingale_CV
+[CV]: https://pdfhost.io/v/GR8Fvy7MC_Microsoft_Word_Tom_Nightingale_CV4546
